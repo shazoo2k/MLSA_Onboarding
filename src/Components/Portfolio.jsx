@@ -32,26 +32,22 @@ const imageAltText = "An antique mustang";
 const projectList = [
   {
     title: "My Youtube",
-    description:
-      "Its my Youtube channel.",
+    description: "Its my Youtube channel.",
     url: "https://www.youtube.com/channel/UCtmhEzyy_MwWjmVCyIaAVKA",
   },
   {
     title: "My instagram",
-    description:
-      "Its my instagram.",
+    description: "Its my instagram.",
     url: "https://www.instagram.com/shazoo2k",
   },
   {
     title: "Github Account",
-    description:
-      "Its my github Account",
+    description: "Its my github Account",
     url: "https://github.com/shazoo2k",
   },
   {
     title: "LinkedIn Account",
-    description:
-      "Its my linkedIn account",
+    description: "Its my linkedIn account",
     url: "https://www.linkedin.com/in/shahzaib-niaz-6246521b9/",
   },
 ];
