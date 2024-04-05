@@ -23,8 +23,7 @@ const imageAltText = "A great car driven with specs";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a great programmer with a good problem solving strategy planning";
+const description = "I'm a great programmer with a good problem solving strategy planning";
 
 /**
  * List of some of skills or technologies you work on, are learning,
